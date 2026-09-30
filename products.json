@@ -1,0 +1,404 @@
+[
+  {
+    "name": "CPVC Pipe",
+    "category": "CPVC",
+    "image": "assets/cpvc_pipe_5_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Elbow 90°",
+    "category": "CPVC",
+    "image": "assets/cpvc_elbow_5_elbow.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Tee",
+    "category": "CPVC",
+    "image": "assets/cpvc_tee_5_tee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Coupler",
+    "category": "CPVC",
+    "image": "assets/cpvc_coupler_5_coupler.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC End Cap",
+    "category": "CPVC",
+    "image": "assets/cpvc_endcap_5_endcap.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC F.T.A.",
+    "category": "CPVC",
+    "image": "assets/cpvc_fta_5_fta.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC M.T.A.",
+    "category": "CPVC",
+    "image": "assets/cpvc_mta_5_mta.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Union",
+    "category": "CPVC",
+    "image": "assets/cpvc_union_5_union.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Elbow 45°",
+    "category": "CPVC",
+    "image": "assets/cpvc_elbow45_5_elbow45.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Ball Valve",
+    "category": "CPVC",
+    "image": "assets/cpvc_ball_5_ball.jpg",
+    "desc": ""
+  },
+  {
+    "name": "CPVC Tank Connector",
+    "category": "CPVC",
+    "image": "assets/cpvc_tank_5_tank.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Pipe — Surefit",
+    "category": "uPVC",
+    "image": "assets/upvc_pipe_11_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Elbow",
+    "category": "uPVC",
+    "image": "assets/upvc_elbow_11_elbow.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Tee",
+    "category": "uPVC",
+    "image": "assets/upvc_tee_11_tee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Coupler",
+    "category": "uPVC",
+    "image": "assets/upvc_coupler_11_coupler.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC M.T.A.",
+    "category": "uPVC",
+    "image": "assets/upvc_mta_11_mta.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC F.T.A.",
+    "category": "uPVC",
+    "image": "assets/upvc_fta_11_fta.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Elbow 45°",
+    "category": "uPVC",
+    "image": "assets/upvc_elbow45_11_elbow45.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Brass Elbow",
+    "category": "uPVC",
+    "image": "assets/upvc_brass_elbow_11_brass_elbow.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Brass Tee",
+    "category": "uPVC",
+    "image": "assets/upvc_brass_tee_11_brass_tee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC Brass M.T.A.",
+    "category": "uPVC",
+    "image": "assets/upvc_brass_mta_11_brass_mta.jpg",
+    "desc": ""
+  },
+  {
+    "name": "uPVC End Cap",
+    "category": "uPVC",
+    "image": "assets/upvc_endcap_11_endcap.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Pipe Type A",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_pipe_16_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Bend 87.5°",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_bend875_16_bend875.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Single Tee",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_singletee_16_singletee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Bend 45°",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_bend45_16_bend45.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Cleansing Pipe",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_cleansing_16_cleansing.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Single-Y",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_singleY_16_singleY.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Bend 87.5° with Door",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_bend875door_16_bend875door.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Single Tee with Door",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_singleteedoor_16_singleteedoor.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Coupler",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_coupler_16_coupler.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Reducer",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_reducer_16_reducer.jpg",
+    "desc": ""
+  },
+  {
+    "name": "ClickFit Single-Y with Door",
+    "category": "ClickFit SWR",
+    "image": "assets/clickfit_swr_singleYdoor_16_singleYdoor.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Pipe Type A",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_pipe_20_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Bend 87.5°",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_bend875_20_bend875.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Single Tee",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_singletee_20_singletee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Bend 45°",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_bend45_20_bend45.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Coupler",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_coupler_20_coupler.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Single-Y",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_singleY_20_singleY.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Reducer-Y",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_reducerY_20_reducerY.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Double-Y",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_doubleY_20_doubleY.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Swept Tee",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_swepttee_20_swepttee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Reducing Tee",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_reducingtee_20_reducingtee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Bend 87.5° with Door",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_bend875door_20_bend875door.jpg",
+    "desc": ""
+  },
+  {
+    "name": "SelfFit Cross Tee",
+    "category": "SelfFit SWR",
+    "image": "assets/selffit_swr_crosstee_20_crosstee.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 2 Plain Socket (3 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 2 Plain Socket (6 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 4 Plain Socket (3 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 4 Plain Socket (6 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 8 Plain Socket (3 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "UGD Pipe — SN 8 Plain Socket (6 mtr)",
+    "category": "UGD",
+    "image": "assets/ugd_pipe_23_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 2.5 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 4 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 6 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 8 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 10 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "AgriMASTER uPVC Pipe — 12.5 kg/cm²",
+    "category": "AgriMASTER",
+    "image": "assets/agrimaster_pipe_25_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — ECO Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Easy Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Medium Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Ultra Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Standard Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Heavy Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Heavy Plus Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Super Heavy Bore Series",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — ECO Bore Series (Bell End)",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  },
+  {
+    "name": "Boreline Column Pipe — Easy Bore Series (Bell End)",
+    "category": "Boreline",
+    "image": "assets/boreline_pipe_33_pipe.jpg",
+    "desc": ""
+  }
+]
